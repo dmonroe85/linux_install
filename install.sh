@@ -62,11 +62,6 @@ sudo apt install ./slack-desktop-*.deb
 sudo apt-get install openvpn
 sudo apt-get install network-manager-openvpn-gnome
 
-# Steam
-sudo add-apt-repository multiverse
-sudo apt update 
-sudo apt install steam
-
 # Vulkan
 sudo add-apt-repository ppa:oibaf/graphics-drivers
 sudo apt update
